@@ -50,6 +50,63 @@
   text-decoration: none;
   color: white;
 }
+
+/* @media screen and (max-width: 768px){
+        .header_left ul li{
+         display: none;
+         position: absolute;
+        }
+        .browse{
+        display: block;
+        
+       }
+       .bg-body-tertiary {
+         background-color: transparent !important; 
+       }
+       .DropDownContent{
+         background-color: black;
+         font-size: 25px;
+         /* font-weight: 800; */
+
+         /* color: grey;
+         border: none !important;
+       }
+       .header_left ul{
+         display: none;
+       }
+       #basic-nav-dropdown{
+         color: #fff;
+       }
+       }
+        .header_left ul li a   {
+         display: flex;
+        }
+        .header_left ul li:nth-child(2), .header_left ul li:first-child {
+         display: block;
+     } */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* list-style-type: none; 
   padding: 0;
   margin: 0; */

@@ -46,11 +46,20 @@
   transition: a110.2s;
 }
 .banner_fadeBottom {
-  height: 40vh;
+  height: 50vh;
+  background-image: linear-gradient(
+    180deg,
+    transparent,
+    rgba(43, 43, 43, 0.91),
+    #111
+  );
+}
+/* .banner_fadeBottom {
+  height: 100vh;
   background-image: linear-gradient(
     180deg,
     transparent,
     rgb(37, 37, 37, 0.91),
        #111     
   );
-}
+} */
